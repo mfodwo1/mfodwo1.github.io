@@ -160,6 +160,9 @@
     font-size: 2rem;
     color: var(--primary-color);
   }
+  .btn-link{
+    text-decoration: none;
+  }
   .contact{
     background: rgb(233, 233, 248);
     padding: 20px;
