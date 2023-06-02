@@ -161,7 +161,7 @@
     color: var(--primary-color);
   }
   .btn-link{
-    text-decoration: none;
+    text-decoration: none !important;
   }
   .contact{
     background: rgb(233, 233, 248);
